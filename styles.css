@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Audrey', serif;
+  }
+  
+  img {
+    width: 5%;
+    margin: 5%;
+  }
+  
+  .logo {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .navbar-nav {
+    margin-left: 90%;
+    font-family: cursive;
+  }
+  
+  .navbar {
+    background-color: #FFFDE7;
+  }
+  
+  .top-container, .row  {
+    background-color: #E8D3B9;
+    position: relative;
+  }
+  
+  .aboutUS {
+    align-items: center;
+    padding: 0 20%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+  }
+  
+  .imgCard{
+    width: 75%;
+    align-self: center;
+  }
+
+  .card{
+    align-content: center;
+    background-color: #FEFBE7;
+  }
+
+  .row{
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .badge{
+    padding: 0;
+  }
+  
+  .reserve, .delete, .edit{
+    border-color: #A0BCC2;
+  }
+
+  .carouselControls{
+    align-items: center;
+    background-color: #FFFDE7;
+  }
+
+  .carousel-item-active{
+    width: 75%;
+    height: 75%;
+  }
+
+  .carousel-item{
+    width: 75%;
+    height: 75%;
+  }
